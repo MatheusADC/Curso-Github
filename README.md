@@ -17,7 +17,7 @@ git --help ou git --version
 # <img src="https://github.com/user-attachments/assets/41411c36-f0eb-4f6d-b546-3f69740b7343" alt="ícone do Github" width="28px"/> Site do GitHub
 - [Site](https://github.com/)
 
-- [Meu GitHub](https://github.com/MatheusADC)
+- [Meu Github](https://github.com/MatheusADC)
 
 # <img src="https://github.com/user-attachments/assets/d7224906-8501-4478-b29c-5e21c1eaad4e" alt="ícone de terminal" width="28px"/> Comandos
 ### Inicializar novo repositório
