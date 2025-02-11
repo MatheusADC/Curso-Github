@@ -44,7 +44,7 @@ git status
 git add "nome arquivo.extensao"
 ```
 
-### Adicionar todos os arquivos concomitantemente(status do arquivo passa de _untracked_ para _modified_)
+### Adicionar todos os arquivos concomitantemente (status do arquivo passa de _untracked_ para _modified_)
 ```
 git add .
 ```
@@ -65,12 +65,12 @@ git config --global user.email "seu_email_no_github"
 git push --set-upstream origin <nome_branch>
 ```
 
-### Adicionar branch remota localmente(no seu computador) para definir para onde o código será enviado
+### Adicionar branch remota localmente (no seu computador) para definir para onde o código será enviado
 ```
 git remote add origin <URL_Projeto>
 ```
 
-### Verificar histórico das versões(versão mais atual é a do topo)
+### Verificar histórico das versões (versão mais atual é a do topo)
 ```
 git reflog
 ```
