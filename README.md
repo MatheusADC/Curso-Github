@@ -37,7 +37,7 @@ git status
 > 
 > Arquivos marcados como _untracked_ não foram adicionados no controle de versão.
 
-<br>
+<p></p>
 
 ### Adicionar arquivo no controle de versão
 ```
