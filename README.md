@@ -125,7 +125,7 @@ touch .gitignore
 São caminhos diferentes que serão seguidos durante o processo de desenvolvimento.
 
 # <img src="https://github.com/user-attachments/assets/d5427377-11a1-47fd-bc2c-23b211ad3e8a" alt="ícone de pull request" width="28px"/> Pull request 
-### É a solicitação da aprovação de um commit.
+É a solicitação da aprovação de um commit.
 
 # <img src="https://github.com/user-attachments/assets/6dff2470-e8c7-4ec5-8ba1-c7ddf6042cab" alt="ícone de git ignore" width="28px"/> Gitignore
-### A sua função é para não enviar determinados arquivos/pastas.
+A sua função é para não enviar determinados arquivos/pastas.
