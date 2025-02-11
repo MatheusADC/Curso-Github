@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/0d980e6c-97de-4add-98c3-7197095c5080" alt="ícone do Github" width="28px"/> Git e Github
 - O Git é o Sistema de versionamento do código.
-- O GitHub é a lataforma de versionamento mais utilizada.
+- O GitHub é a plataforma de versionamento mais utilizada.
 
 # <img src="https://github.com/user-attachments/assets/026e6e5d-91fc-4a25-a763-1fc1609c724a" alt="ícone de aprovação" width="28px"/> Vantagens
 - Controle das versões do código;
