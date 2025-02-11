@@ -51,7 +51,7 @@ git add .
 
 ### Realizar um commit:
 ```
-git commit -m "O que foi feito anquela versão"
+git commit -m "O que foi feito naquela versão"
 ```
 
 ### Configurar o seu usuário do GitHub localmente
