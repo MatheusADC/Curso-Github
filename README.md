@@ -114,7 +114,7 @@ git pull <nome_branch>
 git checkout -b <nome_branch_criada> <nome_branch_modelo>
 ```
 
-### Criaçaõ do arquivo .gitignore
+### Criação do arquivo .gitignore
 ```
 touch .gitignore
 ```
