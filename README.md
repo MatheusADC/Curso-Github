@@ -27,14 +27,14 @@ git init
 git status
 ```
 
-<br>
+<p></p>
 
 > [!IMPORTANT]  
 > Um _Commit_ é uma operação que registra as modificações feitas em um repositório de versionamento.
 > 
 > Arquivos marcados como _untracked_ não foram adicionados ao controle de versão.
 
-<p></p>
+<br/>
 
 ### Adição do arquivo ao controle de versão
 ```
@@ -72,7 +72,7 @@ git remote add origin <URL_Projeto>
 git reflog
 ```
 
-<br/>
+<p></p>
 
 > [!CAUTION]
 > A versão mais atual é a que está localizada no topo do texto de retorno.
@@ -119,7 +119,7 @@ git checkout -b <nome_branch_criada> <nome_branch_modelo>
 touch .gitignore
 ```
 
-# <img src="https://github.com/user-attachments/assets/1c0af4ea-f9be-431c-a40a-5c8992e95f92" alt="ícone de merge" width="28px"/> União código
+# <img src="https://github.com/user-attachments/assets/1c0af4ea-f9be-431c-a40a-5c8992e95f92" alt="ícone de merge" width="28px"/> União do código
 ### 1. Entre na branch que receberá o _merge_
 ### 2. Execute o comando `git pull`
 ### 3. Execute o comando `git merge <nome_branch_principal>`
